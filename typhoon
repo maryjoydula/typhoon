@@ -1,0 +1,20 @@
+class typhoon_directory:
+    def _ini_(self,typhoon_name)
+        self.directory={"Agaton":["March",95],
+                        "basyang":["july",130],
+                        "caloy":["july",65],
+                        "domeng":["august",65],
+                        "ester":["august",95],
+                        "florita":["august",55],
+                        "glenda":["august",175],
+                        "henry":["september",65],
+                        "inday":["september",195],
+                        "juan":["october",305],
+    def month(self,self_name),
+       print(f"{typhoon_name") month:
+       print(f"{typhoon_name") speed
+
+directory=typhoon_directory()
+directory.month("agaton")
+directory.speed(                                                                                                                                                                                                                  
+
